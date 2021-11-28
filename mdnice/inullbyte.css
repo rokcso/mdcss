@@ -178,8 +178,8 @@ h6 {
   margin: 5px auto; /*图片水平居中*/
   /* margin:0 0;  */ /*图片水平居左，如需要请打开*/
   max-width: 100%;
-  border-radius: 3px;
-  border: none;
+  /* border-radius: 4px;
+  box-shadow:0px 0px 10px 2px #ccc; */
 }
 
 /* 图片描述文字 */
